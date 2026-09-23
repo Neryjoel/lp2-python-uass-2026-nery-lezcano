@@ -91,3 +91,31 @@ print(suma(5, 3))
 print(resta(5, 3))
 print(multiplicacion(5, 3))
 print(division(5, 3))
+
+#Documentación de funciones: es una cadena de texto que se coloca al inicio de la función y sirve para describir su funcionamiento.
+#Se puede acceder a la documentación de una función con la instrucción help(nombre_funcion)
+help(suma)
+
+
+def perimetro_cuadrado(lado):
+    """
+    Calcula el perímetro de un cuadrado.
+
+    Parámetros:
+    lado (float): La longitud del lado del cuadrado.
+
+    Retorna:
+    float: El perímetro del cuadrado.
+    """
+    return lado * 4
+def perimetro_cuadrado(lado):
+    """
+    Calcula el perímetro de un cuadrado.
+
+    Parámetros:
+    lado (float): La longitud del lado del cuadrado.
+
+    Retorna:
+    float: El perímetro del cuadrado.
+    """
+    return lado * 4
