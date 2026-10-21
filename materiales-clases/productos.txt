@@ -1,0 +1,5 @@
+Teclado - 150000
+Mouse - 80000
+Monitor - 1200000
+Cable HDMI - 25000
+Parlante - 90000
