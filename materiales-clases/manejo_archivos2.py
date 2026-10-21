@@ -59,9 +59,7 @@ def ejercicio_5():
         with open("destino.txt", "w", encoding="utf-8") as destino:
             for linea in origen:
                 destino.write(linea)
-
     print("Archivo copiado")
-
 
 #Programa principal
 while True:
